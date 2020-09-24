@@ -30,7 +30,7 @@
         //Année supérieure
         var most_year = currentYear.getFullYear() - 12
         //Année inférieure
-        var less_year = currentYear.getFullYear() - 90
+        var less_year = currentYear.getFullYear() - 89
         //Jours actuel
         var current_day = ''
         // la date de l'input
